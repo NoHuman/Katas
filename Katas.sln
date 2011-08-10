@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TennisGame.Kata", "TennisGame.Kata\TennisGame.Kata.csproj", "{C857625E-ED32-4E8A-A2A6-70D53162C520}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{1AC0D4A9-8BDC-40AB-9A59-7FFE5FFC13DC}"
+	ProjectSection(SolutionItems) = preProject
+		Katas.vsmdi = Katas.vsmdi
+		Local.testsettings = Local.testsettings
+		TraceAndTestImpact.testsettings = TraceAndTestImpact.testsettings
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(TestCaseManagementSettings) = postSolution
+		CategoryFile = Katas.vsmdi
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C857625E-ED32-4E8A-A2A6-70D53162C520}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C857625E-ED32-4E8A-A2A6-70D53162C520}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C857625E-ED32-4E8A-A2A6-70D53162C520}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C857625E-ED32-4E8A-A2A6-70D53162C520}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
